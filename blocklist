@@ -1,7 +1,8 @@
 # Title: Social Distractions Block List
 # Built for PiHole
 # Last Updated: 25 August 2021
-
+#
 0.0.0.0 news.ycombinator.com
 0.0.0.0 facebook.com
 0.0.0.0 twitter.com
+0.0.0.0 reddit.com
